@@ -1,18 +1,5 @@
 
-// let header = document.querySelector("#heads");
-// let img = document.querySelector("#logo");
-// let text_color = document.querySelectorAll(".single0 ")
-// window.addEventListener("scroll", function(){
-//   if(window.scrollY >= 40){
-//     header.classList.add("sticky")
-//    img.src="assets/logo-dark.png";
-//   text_color.classList.toggle("text_black")
-//   }
-//   else{
-//     header.classList.remove("sticky")
-//    img.src="assets/logo-light.png";
-//   }
-// })
+
 
 
 
@@ -62,14 +49,7 @@ $('.sliders').slick({
   slidesToScroll: 1,
 });
 
-// $('.allsliders').slick({
-//   dots: true,
-//   infinite: true,
-//   speed: 200,
-//   autoplay: false,
-//   slidesToShow: 3,
-//   slidesToScroll: 1,
-// });
+
 
 $('.allsliders').slick({
   dots: true,
@@ -264,25 +244,3 @@ bxcross.addEventListener("click", function () {
 
 });
 
-// let a = ["a" ,"b"]
-
-// let f = ["c" ,"d"]
-// let g = [a+f];
-// console.log(g)
-// let arr =["ram","rohit"];
-// let ar =["rm","rt"];
-
-// console.log(arr.concat(ar));
-
-// let res =[arr+" , "+ar];
-// console.log(res);
-
-// let new_num = prompt("enter a number")
-
-// if(new_num % 2 === 0){
-//      alert("even");
-
-// }
-// else{
-//   alert("odd")
-// }
