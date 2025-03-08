@@ -32,7 +32,7 @@ window.addEventListener("scroll", function () {
 
   } else {
     header.classList.remove("sticky");
-    img.src = "/assets/logo-light.png";
+    img.src = "assets/logo-light.png";
 
     // Remove the "text_black" class when scrolling back up
     text_colors.forEach(function (text) {
