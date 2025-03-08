@@ -10,7 +10,7 @@
 //   }
 //   else{
 //     header.classList.remove("sticky")
-//    img.src="/assets/logo-light.png";
+//    img.src="assets/logo-light.png";
 //   }
 // })
 
